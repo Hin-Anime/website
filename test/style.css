@@ -1,0 +1,511 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Ubuntu:wght@300;400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Mulish:wght@200&family=Nunito:wght@200&family=Rubik:wght@300&family=Zen+Kurenaido&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #001826;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.img img {
+  margin: 72px 1px 1px 173px;
+  border-radius: 12px;
+}
+.h1 {
+  margin: -306px 1px -4px 428px;
+  color: white;
+}
+
+.genres {
+  margin: -9px 1px 4px -152px;
+}
+
+li {
+  list-style: none;
+  padding: 0px 6px;
+  color: #eeee22;
+}
+
+ul a {
+  text-decoration: none;
+
+  font-size: 15px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 69px;
+}
+
+.h1 p {
+  margin: 10px 1px 1px 1px;
+  color: #eeee22;
+}
+
+.ep {
+  margin: -7px 1px 1px 425px;
+  color: #eeee22;
+}
+
+.box1 {
+  background-color: #012a41;
+  height: 137px;
+  width: 1070px;
+  margin: 179px 1px 1px 192px;
+  border-radius: 8px 8px 1px 1px;
+}
+
+.box1 img {
+  height: 124px;
+  margin: 8px;
+  border-radius: 4px;
+}
+
+.box1 h3 {
+  margin: -123px 1px 1px 120px;
+  background-color: #012a41;
+  color: #eeee22;
+  font-size: 26px;
+}
+
+.box1 p {
+  margin: 20px 1px 1px 122px;
+  background-color: #012a41;
+  color: #00456d;
+}
+
+.box2 {
+  background-color: #212020;
+  height: 80px;
+  width: 1070px;
+  margin: 1px 1px 1px 192px;
+}
+
+.box2 p {
+  background-color: #212020;
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 27px;
+  width: 304px;
+}
+
+.box2 button {
+  float: left;
+  position: relative;
+  top: 13px;
+  left: 947px;
+  height: 33px;
+  width: 109px;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+
+.box3 {
+  background-color: #212020;
+  height: 80px;
+  width: 1070px;
+  margin: 1px 1px 1px 192px;
+}
+
+.box3 p {
+  background-color: #212020;
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 27px;
+  width: 304px;
+}
+
+.box3 button {
+  float: left;
+  position: relative;
+  top: 13px;
+  left: 947px;
+  height: 33px;
+  width: 109px;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+.box4 {
+  background-color: #212020;
+  height: 80px;
+  width: 1070px;
+  margin: 1px 1px 1px 192px;
+}
+
+.box4 p {
+  background-color: #212020;
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 27px;
+  width: 304px;
+}
+
+.box4 button {
+  float: left;
+  position: relative;
+  top: 13px;
+  left: 947px;
+  height: 33px;
+  width: 109px;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+.box5 {
+  background-color: #212020;
+  height: 80px;
+  width: 1070px;
+  margin: 1px 1px 1px 192px;
+}
+
+.box5 p {
+  background-color: #212020;
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 27px;
+  width: 304px;
+}
+
+.box5 button {
+  float: left;
+  position: relative;
+  top: 13px;
+  left: 947px;
+  height: 33px;
+  width: 109px;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+.box6 {
+  background-color: #212020;
+  height: 80px;
+  width: 1070px;
+  margin: 1px 1px 1px 192px;
+}
+
+.box6 p {
+  background-color: #212020;
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 27px;
+  width: 304px;
+}
+
+.box6 button {
+  float: left;
+  position: relative;
+  top: 13px;
+  left: 947px;
+  height: 33px;
+  width: 109px;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+.box7 {
+  background-color: #212020;
+  height: 80px;
+  width: 1070px;
+  margin: 1px 1px 1px 192px;
+}
+
+.box7 p {
+  background-color: #212020;
+  color: white;
+  position: relative;
+  top: 35px;
+  left: 27px;
+  width: 304px;
+}
+
+.box7 button {
+  float: left;
+  position: relative;
+  top: 13px;
+  left: 947px;
+  height: 33px;
+  width: 109px;
+  border-radius: 18px;
+  color: white;
+  border: none;
+}
+
+.video {
+  background-color: #012a41;
+  height: 574px;
+  width: 1081px;
+  margin: 230px 1px 1px 177px;
+  border-radius: 7px;
+}
+
+.video video {
+  height: 556px;
+  width: 1062px;
+  margin: 9px;
+}
+
+.button button {
+  height: 46px;
+  width: 178px;
+  margin: -44px 1px 1px 501px;
+  position: relative;
+  top: 97px;
+  background-color: #3c4143;
+  color: #eeee22;
+  border: none;
+  border-radius: 24px;
+  font-size: 17px;
+}
+
+.button a {
+  text-decoration: none;
+}
+.button img {
+  height: 32px;
+  position: relative;
+  top: 106px;
+  left: 552px;
+  z-index: 2;
+  background-color: #3c4143;
+}
+
+.next button {
+  background-color: wheat;
+  margin: -44px 1px 1px 696px;
+  position: relative;
+  top: 66px;
+  height: 46px;
+  width: 178px;
+  background-color: #3c4143;
+  color: #eeee22;
+  border: none;
+  border-radius: 24px;
+  font-size: 17px;
+}
+
+
+/* phone */
+
+@media screen and (max-width: 600px) {
+  .img img {
+    margin: 45px 1px 1px 70px;
+  }
+
+  .h1 {
+    margin: 60px 1px -4px 44px;
+  }
+
+  .genres {
+    margin: -6px 1px 4px -22px;
+    position: relative;
+    top: 5px;
+    left: 11px;
+  }
+
+  .ep {
+    margin: 9px 1px 1px 44px;
+  }
+
+  .video {
+    height: 204px;
+    width: 338px;
+    margin: 61px 1px 1px 23px;
+    position: relative;
+    top: -42px;
+  }
+
+  .video video {
+    height: 186px;
+    width: 328px;
+    margin: 5px;
+  }
+
+  .box1 {
+    height: 97px;
+    width: 369px;
+    margin: -41px 1px 1px 6px;
+    font-size: 10px;
+    position: relative;
+    z-index: 1;
+  }
+  .box1 img {
+    height: 82px;
+    margin: 8px;
+    border-radius: 4px;
+  }
+
+  .box1 h3 {
+    margin: -81px 1px 1px 91px;
+    font-size: 17px;
+  }
+
+  .box1 p {
+    margin: 20px 1px 1px 90px;
+  }
+
+  .box1 p {
+    margin: 20px 1px 1px 122px;
+  }
+
+  .box2 {
+    height: 80px;
+    width: 367px;
+    margin: 2px 1px 1px 8px;
+  }
+
+  .box2 p {
+    position: relative;
+    top: 33px;
+    left: 19px;
+    width: 304px;
+    font-size: 11px;
+  }
+
+  .box2 button {
+    position: relative;
+    top: 13px;
+    left: 244px;
+    height: 33px;
+    width: 97px;
+  }
+
+  .box3 {
+    height: 80px;
+    width: 367px;
+    margin: 2px 1px 1px 8px;
+  }
+
+  .box3 p {
+    position: relative;
+    top: 33px;
+    left: 19px;
+    width: 304px;
+    font-size: 11px;
+  }
+
+  .box3 button {
+    position: relative;
+    top: 13px;
+    left: 244px;
+    height: 33px;
+    width: 97px;
+  }
+  .box4 {
+    height: 80px;
+    width: 367px;
+    margin: 2px 1px 1px 8px;
+  }
+
+  .box4 p {
+    position: relative;
+    top: 33px;
+    left: 19px;
+    width: 304px;
+    font-size: 11px;
+  }
+
+  .box4 button {
+    position: relative;
+    top: 13px;
+    left: 244px;
+    height: 33px;
+    width: 97px;
+  }
+  .box5 {
+    height: 80px;
+    width: 367px;
+    margin: 2px 1px 1px 8px;
+  }
+
+  .box5 p {
+    position: relative;
+    top: 33px;
+    left: 19px;
+    width: 304px;
+    font-size: 11px;
+  }
+
+  .box5 button {
+    position: relative;
+    top: 13px;
+    left: 244px;
+    height: 33px;
+    width: 97px;
+  }
+
+  .box6 {
+    height: 80px;
+    width: 367px;
+    margin: 2px 1px 1px 8px;
+  }
+
+  .box6 p {
+    position: relative;
+    top: 33px;
+    left: 19px;
+    width: 304px;
+    font-size: 11px;
+  }
+
+  .box6 button {
+    position: relative;
+    top: 13px;
+    left: 244px;
+    height: 33px;
+    width: 97px;
+  }
+
+  .box7 {
+    height: 80px;
+    width: 367px;
+    margin: 2px 1px 1px 8px;
+  }
+
+  .box7 p {
+    position: relative;
+    top: 33px;
+    left: 19px;
+    width: 304px;
+    font-size: 11px;
+  }
+
+  .box7 button {
+    position: relative;
+    top: 13px;
+    left: 244px;
+    height: 33px;
+    width: 97px;
+  }
+  .button button {
+    height: 39px;
+    width: 114px;
+    margin: -52px 1px 1px 61px;
+    position: relative;
+    top: -28px;
+    font-size: 16px;
+  }
+
+  .button a {
+    text-decoration: none;
+  }
+
+  .next button {
+    margin: -45px 1px 1px 187px;
+    position: relative;
+    top: -58px;
+    height: 39px;
+    width: 114px;
+    font-size: 17px;
+  }
+
+}
